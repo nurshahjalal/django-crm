@@ -1,0 +1,36 @@
+{% extends 'account/base.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<hr>
+
+<div class="content-section">
+  <form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+
+    {{ formset.management_form }}
+
+    <fieldset class="form-group">
+      <legend class="border-bottom mb-4"> Create Order</legend>
+    </fieldset>
+    <div class="form-group">
+      {% for form in formset %}
+
+        {{ form }}
+        <hr>
+
+      {% endfor %}
+      
+    </div>
+
+    <div class="form-group">
+      <hr>
+      <button class="btn btn-outline-info" type="submit"> Create Order</button> 
+    </div>
+  </form>
+</div>
+
+
+{% endblock content %}

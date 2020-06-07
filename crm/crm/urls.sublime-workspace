@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"authentications"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"users"
+			],
+			[
+				"use",
+				"UserRegisterForm"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"O",
+				"Order"
+			],
+			[
+				"o",
+				"order-update"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"Order",
+				"OrderForm"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"Ca",
+				"CATEGORY"
+			],
+			[
+				"ba",
+				"BASE_DIR"
+			],
+			[
+				"ordr",
+				"order_by"
+			],
+			[
+				"ger",
+				"get_object_or_404"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"page",
+				"page_obj"
+			],
+			[
+				"p",
+				"p_form"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"Upda",
+				"UpdateProfileForm"
+			],
+			[
+				"Up",
+				"UpdateUserForm"
+			],
+			[
+				"User",
+				"UserCreationForm"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"r",
+				"redirect"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"url.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/decorators.py",
+		"/C/Users/nursh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/nursh/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/urls.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/views.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/user.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/views.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/urls.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/models.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/forms.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/templates/users/login.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/crm/settings.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/models.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/admin.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/users/templates/users/register.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/navbar.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/crm/urls.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/customer_order_form.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/customer_list.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/filters.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/customer_detail.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/delete_order.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/dashboard_list.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/forms.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/orders_form.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/static/css/main.css",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/orders_list.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/crm/wsgi.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/admin.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/migrations/0001_initial.py",
+		"/C/Users/nursh/DjangoProject/CRM/crm/db.sqlite3",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/base.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/static/account/main.css",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/status.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/templates/account/products_list.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/template/account/account_list.html",
+		"/C/Users/nursh/DjangoProject/CRM/crm/account/template/account/base.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/django_project/settings.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/views.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/post_detail.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/password_reset_confirm.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/urls.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/django_project/urls.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/post_list.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/user_posts.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/password_reset.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/password_reset_done.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/static/blog/main.css",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/base.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/posts.json",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/post_form.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/post_confirm_delete.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/latest.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/models.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/home.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/models.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/forms.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/views.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/profile.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/logout.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/signals.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/apps.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/__init__.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/admin.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/register.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/templates/users/login.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/admin.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/users/migrations/0001_initial.py",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/templates/blog/about.html",
+		"/C/Users/nursh/PycharmProjects/django_projects/django_project/blog/apps.py",
+		"/C/Users/nursh/PycharmProjects/Pipenv_projects/Django_Project/Django_Blog/views.py",
+		"/C/Users/nursh/PycharmProjects/Pipenv_projects/Django_Project/blog/urls.py",
+		"/C/Users/nursh/PycharmProjects/Pipenv_projects/Django_Project/Django_Project/urls.py",
+		"/C/Users/nursh/PycharmProjects/Pipenv_projects/Django_Project/Django_Project/settings.py",
+		"/C/Users/nursh/PycharmProjects/Pipenv_projects/Django_Project/Django_Blog/urls.py",
+		"/C/Users/nursh/PycharmProjects/Pipenv_projects/ReadMe",
+		"/C/Users/nursh/code_snippets/Python/Flask_Blog/05-Package-Structure/flaskblog/__init__.py",
+		"/C/Users/nursh/code_snippets/Python/Flask_Blog/05-Package-Structure/run.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

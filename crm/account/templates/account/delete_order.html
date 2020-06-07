@@ -1,0 +1,18 @@
+{% extends "account/base.html" %}
+
+{% block content %}
+    <div class="content-section">
+    	<form method="POST">
+    		{% csrf_token %}
+    		<fieldset class="form-group">
+    			<legend class="border-bottom mb-4"> Delete Order </legend>
+                <h2> Are you sure to delete the order : {{ item }} ?</h2>
+
+    		</fieldset>
+    		<div class="form-group">
+    			<button class="btn btn-outline-danger" type="submit"> Yes, Delete</button>   
+                <a class="btn btn-outline-secondary" href="{% url 'account-dashboard'  %}"> Cancel</a>   			
+    		</div>    		
+    	</form>   		
+    </div>
+{% endblock content %}

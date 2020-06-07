@@ -1,0 +1,40 @@
+{% extends 'users/starter.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<!--
+	<form method="POST" action="">
+		{% csrf_token %}
+
+		<div class="input-group mb-3">
+			<div class="input-group-append">
+				<span class="input-group-text"><i class="fas fa-user"></i></span>
+			</div>
+
+			<input type="text" name="email" placeholder="email..." class="form-control">
+		</div>
+
+		<div class="d-flex justify-content-center mt-3 login_container">
+			<input class="btn login_btn" type="submit" value="Send">
+		</div>
+	</form>
+-->
+
+<div class="row justify-content-center">
+	<div class="col-6">
+		<div class="card style=width: 18rem;">
+			<div class="card-body">
+				<form method="POST">
+					{% csrf_token %}
+						<legend class="border-bottom mb-4"> <strong>Send Username </strong></legend>
+						<input type="text" name="email" placeholder="email..." class="form-control">	
+						<br>
+						<button class="btn btn-primary" type="submit">Send</button>    		
+				</form> 
+			</div>  	
+		</div>
+	</div>
+</div>
+{% endblock content %}
+
+
+
